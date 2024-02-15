@@ -1,0 +1,165 @@
+{
+    "etudiants": [
+      {
+        "ID_Etudiant": 1,
+        "Nom": "Dupont",
+        "Prenom": "Jean",
+        "Gender": "M",
+        "Age": 21,
+        "Email": "jean.dupont@example.com"
+      },
+      {
+        "ID_Etudiant": 2,
+        "Nom": "Martin",
+        "Prenom": "Marie",
+        "Gender": "F",
+        "Age": 22,
+        "Email": "marie.martin@example.com"
+      },
+      {
+        "ID_Etudiant": 3,
+        "Nom": "Dubois",
+        "Prenom": "Pierre",
+        "Gender": "M",
+        "Age": 20,
+        "Email": "pierre.dubois@example.com"
+      },
+      {
+        "ID_Etudiant": 4,
+        "Nom": "Lefevre",
+        "Prenom": "Sophie",
+        "Gender": "F",
+        "Age": 23,
+        "Email": "sophie.lefevre@example.com"
+      },
+      {
+        "ID_Etudiant": 5,
+        "Nom": "Moreau",
+        "Prenom": "Thomas",
+        "Gender": "M",
+        "Age": 22,
+        "Email": "thomas.moreau@example.com"
+      },
+      {
+        "ID_Etudiant": 6,
+        "Nom": "Girard",
+        "Prenom": "Julie",
+        "Gender": "F",
+        "Age": 21,
+        "Email": "julie.girard@example.com"
+      },
+      {
+        "ID_Etudiant": 7,
+        "Nom": "Roux",
+        "Prenom": "Luc",
+        "Gender": "M",
+        "Age": 20,
+        "Email": "luc.roux@example.com"
+      },
+      {
+        "ID_Etudiant": 8,
+        "Nom": "Fournier",
+        "Prenom": "Emma",
+        "Gender": "F",
+        "Age": 23,
+        "Email": "emma.fournier@example.com"
+      },
+      {
+        "ID_Etudiant": 9,
+        "Nom": "Leroux",
+        "Prenom": "Alex",
+        "Gender": "M",
+        "Age": 22,
+        "Email": "alex.leroux@example.com"
+      },
+      {
+        "ID_Etudiant": 10,
+        "Nom": "Lemoine",
+        "Prenom": "Camille",
+        "Gender": "F",
+        "Age": 21,
+        "Email": "camille.lemoine@example.com"
+      },
+      {
+        "ID_Etudiant": 11,
+        "Nom": "Caron",
+        "Prenom": "Nicolas",
+        "Gender": "M",
+        "Age": 20,
+        "Email": "nicolas.caron@example.com"
+      },
+      {
+        "ID_Etudiant": 12,
+        "Nom": "Colin",
+        "Prenom": "Manon",
+        "Gender": "F",
+        "Age": 23,
+        "Email": "manon.colin@example.com"
+      },
+      {
+        "ID_Etudiant": 13,
+        "Nom": "Andre",
+        "Prenom": "Antoine",
+        "Gender": "M",
+        "Age": 22,
+        "Email": "antoine.andre@example.com"
+      },
+      {
+        "ID_Etudiant": 14,
+        "Nom": "Lefevre",
+        "Prenom": "Chloe",
+        "Gender": "F",
+        "Age": 21,
+        "Email": "chloe.lefevre@example.com"
+      },
+      {
+        "ID_Etudiant": 15,
+        "Nom": "Leroy",
+        "Prenom": "Hugo",
+        "Gender": "M",
+        "Age": 20,
+        "Email": "hugo.leroy@example.com"
+      },
+      {
+        "ID_Etudiant": 16,
+        "Nom": "Michel",
+        "Prenom": "Lea",
+        "Gender": "F",
+        "Age": 23,
+        "Email": "lea.michel@example.com"
+      },
+      {
+        "ID_Etudiant": 17,
+        "Nom": "Girard",
+        "Prenom": "Paul",
+        "Gender": "M",
+        "Age": 22,
+        "Email": "paul.girard@example.com"
+      },
+      {
+        "ID_Etudiant": 18,
+        "Nom": "Roy",
+        "Prenom": "Laura",
+        "Gender": "F",
+        "Age": 21,
+        "Email": "laura.roy@example.com"
+      },
+      {
+        "ID_Etudiant": 19,
+        "Nom": "Lefevre",
+        "Prenom": "Martin",
+        "Gender": "M",
+        "Age": 20,
+        "Email": "martin.lefevre@example.com"
+      },
+      {
+        "ID_Etudiant": 20,
+        "Nom": "Leroux",
+        "Prenom": "Sarah",
+        "Gender": "F",
+        "Age": 23,
+        "Email": "sarah.leroux@example.com"
+      }
+    ]
+  }
+  

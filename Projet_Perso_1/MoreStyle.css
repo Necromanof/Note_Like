@@ -1,0 +1,66 @@
+body {
+    margin: 0, 0, 0, 0;
+    background-color: #E8F1F2;
+}
+
+.container {
+    margin: auto;
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.navbar {
+    background-color: #B3EFB2;
+    color: black;
+    width: auto;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    top: 0px;
+    left: 10px;
+    right: 10px;
+    opacity: 0.8;
+  
+}
+
+.navbar img{
+    display: flex;
+    justify-content: flex-start;
+    width: auto;
+    height: 100px;
+}
+
+
+.navbar a{
+    margin-right: 50px;
+    text-decoration: none;
+    padding: 10px;
+    background-color: #7A9E7E;
+    border-radius: 20px;
+    color: black;
+}
+
+.navbar a:hover {
+    background-color: #31493C;
+}
+
+.tab{
+    margin-left: 10px;
+    margin-right: auto;
+    box-shadow: 0 0 2PX 0 inset;
+}
+
+.tab label, select, .SendBTN{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+}
+
+.tab input {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}

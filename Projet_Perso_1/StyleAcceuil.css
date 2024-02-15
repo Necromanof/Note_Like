@@ -1,0 +1,85 @@
+body {
+    margin: 0, 0, 0, 0;
+    background-color: #6247AA;
+}
+
+
+.container {
+    margin: auto;
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.navbar {
+    background-color: thistle;
+    color: black;
+    width: auto;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    top: 0px;
+    left: 10px;
+    right: 10px;
+    opacity: 0.8;
+  
+}
+
+.navbar img{
+    display: flex;
+    justify-content: flex-start;
+    width: auto;
+    height: 100px;
+}
+
+
+.navbar a{
+    margin-right: 50px;
+    text-decoration: none;
+    padding: 10px;
+    background-color: #A06CD5;
+    border-radius: 20px;
+    color: black;
+}
+
+.navbar a:hover {
+    background-color: #6247AA;
+}
+
+#LinkNote {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    background-color: #102B3F;
+    border-radius: 20px;
+    text-decoration: none;
+    color: white;
+    margin-top: 200px;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+
+#LinkNote:hover {
+    background-color: #062726;
+}
+
+#AddStudent {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    background-color: #102B3F;
+    border-radius: 20px;
+    text-decoration: none;
+    color: white;
+    margin-top: 100px;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+
+#AddStudent:hover {
+    background-color: #062726;
+}

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enter Note !</title>
+    <link rel="stylesheet" href="Enter_NoteStyle.css">
+    <link rel="shortcut icon" href="Trollface_non-free.png">
+</head>
+<body>
+    <script src="Enter_Note.js"></script>
+
+    <div class="container">
+        <nav class="navbar">
+            <img src="Ministère-Éducation-Nationale-Jeunesse.svg.png" alt="Logo Ministère">
+
+            <a href="aceuil.html">Return</a>
+        </nav>
+
+        <h1>Veuillez Ajouter Une Note</h1>
+        
+        <div class="tab">
+        <form method="post">
+            <label for="matière">Veuillez sélectionner votre matière</label>
+            <select name="Matière" id="Matiere">
+                <option value="select" selected>---Selectionner Une Matière</option>
+                <option value="Anglais">Anglais</option>
+                <option value="Anglais">Français</option>
+                <option value="Anglais">Mathématiques</option>
+                <option value="Anglais">Histoire</option>
+                <option value="Anglais">Géographie</option>
+                <option value="Anglais">Education Musicale</option>
+            </select>
+
+            <label for="Surname">Nom de l'étudiant</label>
+            <input type="text">
+
+            <label for="Name">Prénom de l'étudiant</label>
+            <input type="text">
+
+            <label for="Classe">Classe de l'étudiant</label>
+            <select name="classSelection" id="classSelection">
+                <option value="select" selected>---Selectionner Une Classe---</option>
+                <option value="Info">Bachelor Info</option>
+                <option value="RH">Bachelor RH</option>
+                <option value="Elec">BTS Electrotechnique</option>
+                <option value="LP Surf">Licence pro SURF</option>
+            </select>
+
+            <label for="Note">Note de l'élève</label>
+            <input type="number" name="Note" id="note">
+
+            <input type="submit" value="Envoyer" class="SendBTN" onclick="MessageSent()">
+        </form>
+        </div>
+        
+    </div>
+    
+</body>
+</html>
